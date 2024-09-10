@@ -1,1 +1,1 @@
-### Github Statistics Dashboard Landing Page
+## Github Statistics Dashboard Landing Page
